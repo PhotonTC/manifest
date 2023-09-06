@@ -9,7 +9,5 @@
            revision="refs/heads/main" />
 
   <project path="toolchain/llvm_android" remote="photon" name="llvm_android" />
-  <project path="toolchain/llvm-project" name="llvm/llvm-project"
-           revision="main" remote="github" />
 
 </manifest>
