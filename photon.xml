@@ -5,7 +5,7 @@
            fetch="https://github.com/" />
 
   <remote  name="photon"
-           fetch="https://github.com/photon"
+           fetch="https://github.com/PhotonTC"
            revision="refs/heads/main" />
 
   <project path="toolchain/llvm_android" remote="photon" name="llvm_android" />
